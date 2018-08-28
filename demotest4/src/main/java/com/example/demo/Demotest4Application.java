@@ -3,7 +3,7 @@ package com.example.demo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 /*
- * branch 2  ddffg ffff
+ * branch 2
  */
 @SpringBootApplication
 public class Demotest4Application {
